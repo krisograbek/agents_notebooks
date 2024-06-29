@@ -1,0 +1,7 @@
+openai
+langchain
+anthropic
+python-dotenv
+ipykernel
+langchain-anthropic
+langchain-openai
